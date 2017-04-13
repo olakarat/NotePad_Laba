@@ -1,0 +1,5 @@
+E:\Си шарп\Notepad\Notepad.Model\bin\Debug\Notepad.Model.dll
+E:\Си шарп\Notepad\Notepad.Model\bin\Debug\Notepad.Model.pdb
+E:\Си шарп\Notepad\Notepad.Model\obj\Debug\Notepad.Model.csprojResolveAssemblyReference.cache
+E:\Си шарп\Notepad\Notepad.Model\obj\Debug\Notepad.Model.dll
+E:\Си шарп\Notepad\Notepad.Model\obj\Debug\Notepad.Model.pdb
